@@ -11,7 +11,7 @@
 
 ## Inicio
 
-![TROTAMUNDO](./Assets/img_1.jpeg)
+![TROTAMUNDO](./Assets/Captura.png)
 
 Blog de viajes
 
@@ -28,4 +28,5 @@ Describe tus destinos favoritos o los lugares que has visitado recientemente.
 ## Gastronomía
 
 Comparte tus experiencias culinarias durante tus viajes.
+
 

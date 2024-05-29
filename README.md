@@ -11,7 +11,7 @@
 
 ## Inicio
 
-![TROTAMUNDO](./Assets/Captura.png)
+![TROTAMUNDO](./Assets/Captura2.png)
 
 Blog de viajes
 

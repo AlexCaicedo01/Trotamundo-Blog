@@ -35,7 +35,7 @@ nav a:hover {
 }
 
 .encabezado-img {
-    background-image: url(./Assets/img_1.jpeg);
+    background-image: url(./Assets/img_1.jpg);
     height: 500px;
     background-size: cover;
     display: flex;
